@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2c/373ler+BUgVq0UGnddhyWuj/ZjdVqHuahK+0uUpeipVUipYsR6DoNYNjoZfARThfSQmidyI48G53+RpYlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Virág Levente\\source\\repos\\LoggerLibrary\\LoggerLibrary\\LoggerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Virág Levente\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

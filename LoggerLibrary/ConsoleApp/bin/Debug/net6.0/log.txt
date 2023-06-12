@@ -1,0 +1,3 @@
+2023. 06. 12. 15:48:35 [Info] Info log message
+2023. 06. 12. 15:48:35 [Error] Error log message
+2023. 06. 12. 15:48:35 [Debug] Debug log message
